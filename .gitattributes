@@ -22,3 +22,10 @@
 *.tif binary
 
 src/Verify/EmptyFiles/* binary
+
+*.verified.txt  text working-tree-encoding=UTF-8 eol=lf
+*.verified.json text working-tree-encoding=UTF-8 eol=lf
+*.verified.html text working-tree-encoding=UTF-8 eol=lf
+*.verified.sql  text working-tree-encoding=UTF-8 eol=lf
+*.verified.xml  text working-tree-encoding=UTF-8 eol=lf
+*.verified.csv  text working-tree-encoding=UTF-8 eol=lf
